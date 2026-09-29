@@ -1,0 +1,8 @@
+{
+  "name": "Remix VLSI Hub - Silicon Engineering \u0026 CMOS Lab",
+  "description": "Interactive semiconductor engineering platform with CMOS inverter lab, ASIC pipeline, and modern SoC architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
